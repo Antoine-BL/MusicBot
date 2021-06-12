@@ -8,6 +8,11 @@
     
     <repositories>
         <repository>
+            <id>bintray-sedmelluq-com.sedmelluq</id>
+            <name>bintray</name>
+            <url>https://dl.bintray.com/sedmelluq/com.sedmelluq</url>
+        </repository>
+        <repository>
             <id>dv8tion</id>
             <name>m2-dv8tion</name>
             <url>https://m2.dv8tion.net/releases</url>
@@ -16,11 +21,6 @@
             <id>central</id>
             <name>bintray</name>
             <url>https://jcenter.bintray.com</url>
-        </repository>
-        <repository>
-            <id>bintray-sedmelluq-com.sedmelluq</id>
-            <name>bintray</name>
-            <url>https://dl.bintray.com/sedmelluq/com.sedmelluq</url>
         </repository>
     </repositories>
     
